@@ -1,0 +1,12 @@
+.search__box{
+    width: 350px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.input__cst{
+width: 300px;
+padding: 5px;
+border: 1px solid #000;
+border-radius: 5px;
+}
